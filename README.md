@@ -23,6 +23,3 @@
 - [Архитектура компонентов](./docs/ARCH_CMP.md)
 - [Правила работы с проектом](./docs/DEV_RULES.md)
 - [Правила работы с системой контроля версий](./docs/GIT.md)
-- [Стенды](./docs/STANDS.md)
-- [CICD](./docs/CICD.md)
-- [Разработка и тестирование](./docs/DEVELOPMENT.md)

@@ -1,8 +1,8 @@
 {
     "name": "@repo/prod-emulator",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "",
-    "author": "Gamification team",
+    "author": "IVGolubev",
     "license": "ISC",
     "type": "module",
     "types": "./src/index.d.ts",
@@ -24,15 +24,15 @@
     "dependencies": {
         "@repo/example": "*",
         "http-server": "14.1.0",
-        "preact": "10.25.0",
+        "preact": "10.25.4",
         "preact-iso": "2.8.1",
         "react": "npm:@preact/compat",
         "react-dom": "npm:@preact/compat"
     },
     "devDependencies": {
-        "@module-federation/vite": "^1.1.8",
-        "@preact/preset-vite": "^2.9.0",
+        "@module-federation/vite": "^1.2.1",
+        "@preact/preset-vite": "^2.9.4",
         "@repo/configs": "*",
-        "vite": "^5.3.3"
+        "vite": "^6.0.7"
     }
 }
